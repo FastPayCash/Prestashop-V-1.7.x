@@ -1,4 +1,4 @@
-Prestashop V 1.7.x IPN – Fast-Pay Online Payment Module
+Prestashop V 1.7.x IPN â€“ Fast-Pay Online Payment Module
 ---------------------------------------------------------------------------------
 
 FASTPAY-Online Payment Gateway
@@ -25,18 +25,18 @@ Please follow these steps to install the FASTPAY Payment Gateway module.
 Addition Information:
 
 * This module allows you to accept secure payments by FASTPAY.
-* Initially the order status will change to ‘Processing in progress’.
-* Order Status (Payment Success): Should be ‘Payment accepted’ or Complete.
-* Order Status (Payment Failed): Should be ‘Payment error’.
-* Order Status (Payment Canceled): Should be ‘Canceled’.
+* Initially the order status will change to â€˜Processing in progressâ€™.
+* Order Status (Payment Success): Should be â€˜Payment acceptedâ€™ or Complete.
+* Order Status (Payment Failed): Should be â€˜Payment errorâ€™.
+* Order Status (Payment Canceled): Should be â€˜Canceledâ€™.
 * IPN URL: Find IPN URL from FASTPAY settings or http://example.com/index.php?fc=module&module=FASTPAY&controller=ipn
 
 
 
 ---------------------------------------------------------------------------------
 
-- Author : G.M. Nayem Hossain (gmnayem@gmail.com)
+- Author : G.M. Nayem Hossain (nayem.hossain@sslwireless.com)
 - Team Email: integration@fastpay.com (For any query)
 - More info: https://www.fast-pay.cash/
 
-© 2019 FASTPAY ALL RIGHTS RESERVED
+Â© 2019 FASTPAY ALL RIGHTS RESERVED
